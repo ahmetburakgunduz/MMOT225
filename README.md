@@ -1,3 +1,3 @@
 # MMOT225
 Bulut bilişim dersi.
-1 ve 2. ödev olarak giriş yaptığım ödevler sizin attığınız ödevlerde 2. ve 3 ödevlerin cevaplarıdır. girilirken isim olarak yanlış girilmiştir
+1. ödev olarak giriş yaptığım ödev sizin attığınız ödevde 2. ödevin cevabıdır. girilirken isim olarak yanlış girilmiştir.
